@@ -1,4 +1,4 @@
-const API_BASE_URL = window.location.origin;
+const API_BASE_URL = "https://asha-saathi-backend.onrender.com";
 let SESSION_ID = "session_" + Math.random().toString(36).substring(2, 9);
 
 // DOM Elements
